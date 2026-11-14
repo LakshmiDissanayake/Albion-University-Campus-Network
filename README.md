@@ -145,8 +145,11 @@ Through this project, I gained practical experience in:
 
 **Project Type:** Computer Networking / Network Administration
 
-**Academic Context:** University Networking Coursework
+📂 Project Files
 
----
+[⬇️ Download Albion University Network (.pkt)](./Packet-Tracer-Project/Albion_University_Network.pkt)
+[📸 View Screenshots Folder](./Screenshots)
+
+
 
 ⭐ This project demonstrates practical networking knowledge through the design and configuration of a multi-campus university network using Cisco Packet Tracer.
